@@ -1,0 +1,27 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 550px;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color: #f4f4f4;
+    margin: 8px auto 0px auto
+}
+h2{
+    text-align: center;
+    color: orange;
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-weight: bold; */
+}
+#submit{
+    width: 510px;
+    color: orange;
+    font-size: large;
+    font-weight: bold;
+}
+form{
+    margin: 5px;
+}
